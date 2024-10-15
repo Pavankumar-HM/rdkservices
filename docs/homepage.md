@@ -14,3 +14,4 @@
 ## Contribute
 
 The documentation is actively maintained and continuously reviewed for accuracy and completeness. Documentation requests and submissions are always welcomed. See [Contribute](https://github.com/rdkcentral/rdkservices/blob/139c3e8e551ce9c1c4260b16ae5ca6efeab1a4f8/README.md#contributing-to-rdkservices).
+Adding this line for bring some changes and to raise a PR for confluence doc purpose.
